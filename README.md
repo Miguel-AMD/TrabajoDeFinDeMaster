@@ -1,4 +1,4 @@
-# Comparaativa entre distintos algoritmos de clasificación y los índices BAI y dBAI para la estimación del área quemada
+# Comparativa entre distintos algoritmos de clasificación y los índices BAI y dBAI para la estimación del área quemada
 
 Este el código para mi trabajo de fin de máster.
 Esta desarrollado en la API de JavaScript de Google Earth Engine.
